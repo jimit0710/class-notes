@@ -10,3 +10,5 @@ sidebar_position: 999
 - [David Fowler](https://twitter.com/davidfowl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 - Application.LocalUSerAppDataPath
+- Run code Efficiently
+- DRY (Don't Repeat Yourselves)
