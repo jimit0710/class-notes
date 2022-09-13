@@ -16,4 +16,9 @@ sidebar_position: 1
 | Uncomment | CTRL + K + U |
 | Toggle Sidebar | CTRL + B |
 | Multi-Select Cursor | CTRL + D |
+| Code Peek | ALT + F12 |
+| Run without Debugguing | CTRL + F5 |
+| Start | F5 |
+| Unit Testing | CTRL + R, CTRL + A |
+| Specific Unit Testing | CTRL + R, CTRL + T |
 
