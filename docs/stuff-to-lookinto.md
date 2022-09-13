@@ -12,3 +12,12 @@ sidebar_position: 999
 - Application.LocalUSerAppDataPath
 - Run code Efficiently
 - DRY (Don't Repeat Yourselves)
+
+- [C# Built-in Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+
+- Keyboard shortcuts
+    1. Indentation: CTRL + K, CTRL + D
+    2. Suggestions: CTRL + .
+    3. Delete Line: CTRL + SHIFT + L
+    4. Move Selected Lines of Code: ALT + ArrowKeys
+    5. Comment: CTRL + K + C
