@@ -4,6 +4,7 @@
 
 ```vb
 Dim myName as String
+
 set myName = "Jimit"
 
 myName = UCase(myName)
@@ -11,7 +12,9 @@ myName = UCase(myName)
 
 ```csharp
 var myName = "Jimit";
+
 myName = myName.ToUpper();
+
 ```
 
 ## Objects have:
@@ -61,7 +64,7 @@ public class BankAccount
     {
         _currentBalance -= amount;
     }
-    
+
     public decimal GetBalance() 
     {
         return _currentBalance;
