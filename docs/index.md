@@ -19,6 +19,6 @@ sidebar_position: 1
 | Code Peek | ALT + F12 |
 | Run without Debugguing | CTRL + F5 |
 | Start | F5 |
-| Unit Testing | CTRL + R, CTRL + A |
-| Specific Unit Testing | CTRL + R, CTRL + T |
+| Unit Testing | CTRL + R, A |
+| Individual Testing | CTRL + R, T |
 
