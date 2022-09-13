@@ -103,3 +103,5 @@ After the test is passing, make it "good". Look for duplication, look for latent
 #### (Sometimes) Commit
 
 Make a commit. 
+
+![Testing Stuff](/img/testing.excalidraw.svg)
