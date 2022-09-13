@@ -4,10 +4,17 @@ sidebar_position: 1
 
 # My Class Notes
 
+#### Intro to Programming Learnings
+
+| Date | Learnings |
+| -------- | --------|
+| 09/12/2022 | <ul><li>Introduction to C# and .NET</li><li>Web API for Class Notes</li></ul> |
+| 09/13/2022 | <ul><li>Unit Testing</li><li>Test Driven Development</li><li>Object Oriented Programming</li></ul> |
+
 #### Keyboard shortcuts (VS Code)
 
 | Function | Keyboard Shortcut |
-| ---------|---------|
+| -------- | --------|
 | Indentation | CTRL + K, CTRL + D |
 | Suggestions | CTRL + .|
 | Delete Line | CTRL + SHIFT + L |
