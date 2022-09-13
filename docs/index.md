@@ -21,4 +21,5 @@ sidebar_position: 1
 | Start | F5 |
 | Unit Testing | CTRL + R, A |
 | Individual Testing | CTRL + R, T |
+| Debugging | CTRL + R, CTRL + A |
 
