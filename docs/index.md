@@ -22,4 +22,6 @@ sidebar_position: 1
 | Unit Testing | CTRL + R, A |
 | Individual Testing | CTRL + R, T |
 | Debugging | CTRL + R, CTRL + A |
+| Individual Test Debugging | CTRL + R, CTRL + T |  
+
 
