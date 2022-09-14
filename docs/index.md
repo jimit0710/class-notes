@@ -10,6 +10,7 @@ sidebar_position: 1
 | -------- | --------|
 | 09/12/2022 | <ul><li>Introduction to C# and .NET</li><li>Web API for Class Notes</li></ul> |
 | 09/13/2022 | <ul><li>Unit Testing</li><li>Test Driven Development</li><li>Object Oriented Programming</li></ul> |
+| 09/14/2022 | <ul><li>Programming Best Practices</li><li>B</li><li>C</li></ul> |
 
 #### Keyboard shortcuts (VS Code)
 
@@ -30,5 +31,7 @@ sidebar_position: 1
 | Individual Testing | CTRL + R, T |
 | Debugging | CTRL + R, CTRL + A |
 | Individual Test Debugging | CTRL + R, CTRL + T |  
+| Renaming | CTRL + R, CTRL + R |
+| Extract Method | CTRL + R, CTRL + M |
 
 
