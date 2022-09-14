@@ -31,7 +31,7 @@ myName = myName.ToUpper();
 :::note What is OOP by Alan Kay
 OOP to me means only messaging, local retention and proetction and hiding of state-process, and extreme late-binding of all things. It can be done in Smalltalk and in LISP. There are possible other systems in which this is possible, but I'm not aware of them.
 
-[Source]
+[Source](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 :::
 
 - Information Hiding: Hide the internal representation, or state, of an object from the outside.
@@ -99,4 +99,63 @@ public class BankAccount
         return _currentBalance;
     }
 }
+```
+
+## Varying Behavior
+
+- We need to make decisions, make code work one way under some situations, and other ways for other situation
+- You know "if" statements, switches, all that jazz
+
+### Varying Behavior by Parameters
+
+```csharp
+
+    account.Deposit(20);
+    account.Deposit(100);
+
+```
+
+### Vary Behavior based on the state of the object itself
+
+```csharp
+
+    account.Withdraw(4999M);
+    account.Withdraw(2);
+
+```
+
+```csharp
+
+    account.Deposit(20);
+    account.Deposit(100);
+
+```
+
+```csharp
+
+    account.Type = AccountTypes.Gold;
+
+    account.Deposit(20);
+    account.Deposit(100);
+
+```
+
+### Vary Behavior by Type
+
+```csharp
+
+    var account = new BankAccount();
+    account.Deposit(100);
+    account.Deposit(100);
+    account.Deposit(100);
+
+```
+
+```csharp
+
+    var account = new GoldAccount();
+    account.Deposit(100);
+    account.Deposit(100);
+    account.Deposit(100);
+
 ```
