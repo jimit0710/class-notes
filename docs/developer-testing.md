@@ -105,3 +105,27 @@ After the test is passing, make it "good". Look for duplication, look for latent
 Make a commit. 
 
 ![Testing Stuff](/img/testing.excalidraw.svg)
+
+
+## Test Doubles
+
+Why?
+
+- Sometimes (often) we have to write something that needs to use a collaborator (see "simple vs. complex"), but that collaborator doesn't even exist yet.
+- We also need to simulate things in our interactions with the collaborator that are difficult or nearly impossible to test in the "real" world.
+
+- Compliance
+    - We have to notify services on certain conditions, and we want to prove that happens, etc. etc.
+
+
+- Dummies
+    - Test Doubles that are just place holders. So you don't get an null reference exception. They are not involved in the test at all other than that.
+- Stubs
+    - Test doubles that provide canned responses to particular questions. e.g. "If you request a bonus for 5000 balance and amount of 69, return 42"
+    - Don't fail a test, but let you look at the state of the system under test to see if they interaction happend properly.
+    - "State Based Testing" - Kent Beck, or "Beckian" testing.
+- Mocks
+    - Test doubles that record everything that happens to them.
+    - You can ask them after the "when" portion of the test (the "then") if they were used properly.
+- Fakes
+    - Not used in Unit testing much, but more in integration testing, they replace an "expensive" thing that you don't need to test, but your code needs.
