@@ -41,5 +41,6 @@ sidebar_position: 1
 | Individual Test Debugging | CTRL + R, CTRL + T |  
 | Renaming | CTRL + R, CTRL + R |
 | Extract Method | CTRL + R, CTRL + M |
+| Rename | F2 |
 
 
