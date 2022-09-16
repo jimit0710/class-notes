@@ -12,7 +12,7 @@ sidebar_position: 1
 | 09/13/2022 | <ul><li>Unit Testing</li><li>Test Driven Development</li><li>Object Oriented Programming</li></ul> |
 | 09/14/2022 | <ul><li>Programming Best Practices</li><li>Object Oriented Programming</li><li>Classes, Inheritance, and Polymorphism</li></ul> |
 | 09/15/2022 | <ul><li>Test Doubles (Dummy, Mocks, Stubs)</li><li>Build an API</li><li>Delegates</li></ul> |
-| 09/16/2022 |  |
+| 09/16/2022 | <ul><li>Integration Testing</li><li>Communication with External Services</li><li>Containerize the External Service</li></ul> |
 | 09/19/2022 |  |
 | 09/20/2022 |  |
 | 09/21/2022 |  |
