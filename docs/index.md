@@ -13,7 +13,7 @@ sidebar_position: 1
 | 09/14/2022 | <ul><li>Programming Best Practices</li><li>Object Oriented Programming</li><li>Classes, Inheritance, and Polymorphism</li></ul> |
 | 09/15/2022 | <ul><li>Test Doubles (Dummy, Mocks, Stubs)</li><li>Build an API</li><li>Delegates</li></ul> |
 | 09/16/2022 | <ul><li>Integration Testing</li><li>Communication with External Services</li><li>Containerize the External Service</li></ul> |
-| 09/19/2022 |  |
+| 09/19/2022 | <ul><li>OpenAPI</li><li>Integration of APIs</li><li>Introduction to Angular</li></ul> |
 | 09/20/2022 |  |
 | 09/21/2022 |  |
 | 09/22/2022 |  |
@@ -42,5 +42,4 @@ sidebar_position: 1
 | Renaming | CTRL + R, CTRL + R |
 | Extract Method | CTRL + R, CTRL + M |
 | Rename | F2 |
-
-
+| XML Comments | /// |

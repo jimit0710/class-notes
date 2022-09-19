@@ -51,3 +51,7 @@ Rarely do you support `DELETE` or `PUT` on a collection, and rarely do you suppo
 - **Safe** - means there are no "side effects" - nothing about the business changes because of this operation.
 - **Idempotent** - Doing it multiple times has the same effect as doing it once.
 - **Cacheable** - Responses from this operation should have cache headers indicating their reuse constraints.
+
+### Threading in APIs
+
+![API Threading](/img/threading-in-apis.excalidraw.svg)
