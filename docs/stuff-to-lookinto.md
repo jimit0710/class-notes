@@ -1,6 +1,7 @@
 ---
 sidebar_position: 999
 ---
+
 # Stuff to Learn
 
 ### General
@@ -15,6 +16,9 @@ sidebar_position: 999
 - [ ] [Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
 - [ ] [David Fowler](https://twitter.com/davidfowl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [ ] [C# Built-in Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+- [ ] [Execute Program](https://www.executeprogram.com/)
+- [x] [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+- [x] [Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat)
 
 ### Coding Practices
 
