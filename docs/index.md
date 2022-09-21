@@ -15,9 +15,9 @@ sidebar_position: 1
 | 09/16/2022 | <ul><li>Integration Testing</li><li>Communication with External Services</li><li>Containerize the External Service</li></ul>    |
 | 09/19/2022 | <ul><li>OpenAPI</li><li>Integration of APIs</li><li>Introduction to Angular</li></ul>                                           |
 | 09/20/2022 | <ul><li>Introduction to TypeScript</li><li>Angular Architectures</li><li>Redux State Management</li></ul>                       |
-| 09/21/2022 |                                                                                                                                 |
-| 09/22/2022 |                                                                                                                                 |
-| 09/23/2022 |                                                                                                                                 |
+| 09/21/2022 | <ul><li>Redux Explained</li><li>Effects and Sorting</li></ul>                                                                   |
+| 09/22/2022 | <ul><li></li><li></li><li></li></ul>                                                                                            |
+| 09/23/2022 | <ul><li></li><li></li><li></li></ul>                                                                                            |
 
 #### Keyboard shortcuts (VS Code)
 

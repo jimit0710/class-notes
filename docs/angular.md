@@ -43,7 +43,3 @@ Components are made up of the following things (code wise):
 ### Angular Architecture
 
 ![Angular Architecture](/img/angular-architecture.excalidraw.svg)
-
-### Redux State Management
-
-![Redux State Management](/img/redux.excalidraw.svg)
