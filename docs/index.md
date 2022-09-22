@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# My Class Notes
+# Schedule
 
 #### Intro to Programming Learnings
 
@@ -18,27 +18,3 @@ sidebar_position: 1
 | 09/21/2022 | <ul><li>Redux Explained</li><li>Effects and Sorting</li><li>Identifying common "Code Smells" and refactorings</li></ul>            |
 | 09/22/2022 | <ul><li>Error Handling</li><li>Introduction to Entity Framework</li><li>Introduction to Building Services with .NET Core</li></ul> |
 | 09/23/2022 | <ul><li></li><li></li><li></li></ul>                                                                                               |
-
-#### Keyboard shortcuts (VS Code)
-
-| Function                    | Keyboard Shortcut  |
-| --------------------------- | ------------------ |
-| Indentation                 | CTRL + K, CTRL + D |
-| Suggestions                 | CTRL + .           |
-| Delete Line                 | CTRL + SHIFT + L   |
-| Move Selected Lines of Code | ALT + ArrowKeys    |
-| Comment                     | CTRL + K + C       |
-| Uncomment                   | CTRL + K + U       |
-| Toggle Sidebar              | CTRL + B           |
-| Multi-Select Cursor         | CTRL + D           |
-| Code Peek                   | ALT + F12          |
-| Run without Debugguing      | CTRL + F5          |
-| Start                       | F5                 |
-| Unit Testing                | CTRL + R, A        |
-| Individual Testing          | CTRL + R, T        |
-| Debugging                   | CTRL + R, CTRL + A |
-| Individual Test Debugging   | CTRL + R, CTRL + T |
-| Renaming                    | CTRL + R, CTRL + R |
-| Extract Method              | CTRL + R, CTRL + M |
-| Rename                      | F2                 |
-| XML Comments                | ///                |

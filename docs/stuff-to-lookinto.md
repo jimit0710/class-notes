@@ -1,5 +1,5 @@
 ---
-sidebar_position: 999
+sidebar_position: 3
 ---
 
 # Stuff to Learn

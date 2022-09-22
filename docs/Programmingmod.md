@@ -1,10 +1,14 @@
+---
+sidebar_position: 5
+---
+
 # Programming Modalities
 
-:::tip 
+:::tip
 This is a simplified categorization of the multitude of ways you might be working as a developer
 :::
 
-The differentiator between these for me is *how focused is your work on requirements that the average business person would correlate with the requirements of the business*, vs. *technical requirements*.
+The differentiator between these for me is _how focused is your work on requirements that the average business person would correlate with the requirements of the business_, vs. _technical requirements_.
 
 ## Systems Programmer
 
@@ -15,7 +19,6 @@ Low level - C++, Rust, Go
 
 - Framework - code that uses your code.
 - Library - code that your code uses.
-
 
 ## Application Developer
 

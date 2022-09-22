@@ -1,3 +1,7 @@
+---
+sidebar_position: 13
+---
+
 # Redux
 
 ### Redux State Management
