@@ -17,4 +17,4 @@ sidebar_position: 1
 | 09/20/2022 | <ul><li>Introduction to TypeScript</li><li>Angular Architectures</li><li>Redux State Management</li></ul>                          |
 | 09/21/2022 | <ul><li>Redux Explained</li><li>Effects and Sorting</li><li>Identifying common "Code Smells" and refactorings</li></ul>            |
 | 09/22/2022 | <ul><li>Error Handling</li><li>Introduction to Entity Framework</li><li>Introduction to Building Services with .NET Core</li></ul> |
-| 09/23/2022 | <ul><li></li><li></li><li></li></ul>                                                                                               |
+| 09/23/2022 | <ul><li>Finsh our API</li><li>More about migration</li><li>Containers for Angular Applications</li><li>Kubernetes</li></ul>        |
