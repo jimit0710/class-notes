@@ -40,6 +40,10 @@ Components are made up of the following things (code wise):
 
 ![Containers](/img/containers.excalidraw.svg)
 
+### Ephemeral Containers
+
+![Ephemeral Containers](/img/ephemeral-containers.excalidraw.svg)
+
 ### Service Relationships
 
 ![Containers](/img/service-relationships.excalidraw.svg)
@@ -47,3 +51,7 @@ Components are made up of the following things (code wise):
 ### Angular Architecture
 
 ![Angular Architecture](/img/angular-architecture.excalidraw.svg)
+
+### Memory Management
+
+![Memory Management](/img/memory-management.excalidraw.svg)
